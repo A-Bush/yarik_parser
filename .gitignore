@@ -1,0 +1,5 @@
+*.plist
+*.xls
+*.xlsx
+*.csv
+/node_modules

@@ -1,0 +1,20 @@
+{
+  "name": "yarik_parser",
+  "version": "0.0.3",
+  "description": "nodejs based xlsx to plist parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node xlsx_parser.js"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "A-Bush",
+  "license": "ISC",
+  "dependencies": {
+    "encoding": "^0.1.12",
+    "ibm866": "^1.0.0",
+    "iconv": "*",
+    "xlsx": "^0.8.5"
+  }
+}
